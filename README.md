@@ -102,8 +102,6 @@ Di bawah ini Anda dapat menemukan bagan yang menunjukkan jalur yang dapat Anda a
     - [r2d2](https://crates.io/crates/r2d2)
     - [lettre](https://crates.io/crates/lettre)
 
-15. Additional Rust Content
-    - [Rust in 30 min](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ## Istirahatkeun heula moal baleg,, wkwkkw
 
