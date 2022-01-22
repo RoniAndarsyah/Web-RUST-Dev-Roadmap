@@ -1,14 +1,12 @@
-# Rust Web Developer Roadmap
+# Ini adalah Rust Web Developer Roadmap
 
-> Roadmap to becoming a [Rust](https://www.rust-lang.org/) web developer in 2021:
 
-Below you can find a chart demonstrating the path you may take and the libraries you may require to become a Rust Web Developer. This chart is made with inspiration from [Golang Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap/).
+Di bawah ini Anda dapat menemukan bagan yang menunjukkan jalur yang dapat Anda ambil dan library yang mungkin Anda perlukan untuk menjadi Pengembang Web Rust. Bagan ini dibuat dengan inspirasi dari 
 
-[简体中文版](./i18n/zh-CN/README-zh-CN.md)
 
-## Disclaimer
+## Pengecualian
 
-> The purpose of this roadmap is to help beginner Rust web developers to navigate through frameworks and libraries in Rust ecosystem while staying as productive as possible. The libraries and (my personal) recommendations listed under each stage of the following roadmap has been researched to the best of my capacity. You should always do research on your end and build up a solution that best works for you.
+> Tujuan dari roadmap ini adalah untuk membantu pengembang web Rust pemula untuk menavigasi melalui kerangka kerja dan library di ekosistem Rust sambil tetap seproduktif mungkin. library dan rekomendasi (pribadi saya) yang tercantum di bawah setiap tahap roadmap berikut telah diteliti dengan kemampuan terbaik saya. Anda harus selalu melakukan penelitian di pihak Anda dan membangun solusi yang paling sesuai untuk Anda.
 
 ## Roadmap
 
