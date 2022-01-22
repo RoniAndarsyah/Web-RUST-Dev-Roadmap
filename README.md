@@ -105,18 +105,21 @@ Di bawah ini Anda dapat menemukan bagan yang menunjukkan jalur yang dapat Anda a
 15. Additional Rust Content
     - [Rust in 30 min](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
-## Wrap Up
+## Istirahatkeun heula moal baleg,, wkwkkw
 
-If you think the roadmap can be improved, please do open a PR with any updates and submit any issues.
+Jika menurut Anda peta jalan dapat ditingkatkan, silakan buka PR dengan pembaruan apa pun dan kirimkan masalah apa pun.
 
-## Contribution
+## Kontribusi
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `rust-web-developer-roadmap.xml` file. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 50px border width and minify that with [Compressor.io](https://compressor.io/compress)).
+Roadmap dibuat menggunakan [Draw.io](https://www.draw.io/). File proyek dapat ditemukan di file `rust-web-developer-roadmap.xml`. Untuk memodifikasinya, buka draw.io, klik **Open Existing Diagram** dan pilih file `xml` dengan proyek. Ini akan membuka peta jalan untuk Anda. Perbarui, unggah dan perbarui gambar di readme dan buat PR (ekspor sebagai png dengan lebar batas 50px dan perkecil dengan [Compressor.io](https://compressor.io/compress)).
 
 - Open a pull request with improvements
 - Discuss ideas in issues
 - Spread the word
 
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## Terima Kasih Banyak
